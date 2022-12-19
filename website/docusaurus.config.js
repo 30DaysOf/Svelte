@@ -96,7 +96,8 @@ const config = {
         items: [
           { to: "/learn", label: "Learn", position: "left" },
           { to: "/build", label: "Build", position: "left" },
-          { to: "/sitemap.xml", label: "🏠 Sitemap", position: "right" },
+          { to: "/home", label: "🏠 |", position: "right" },
+          { to: "/sitemap.xml", label: "🗺 |", position: "right" },
           {
             href: "https://github.com/30DaysOf/svelte",
             position: "right",

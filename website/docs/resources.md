@@ -17,6 +17,8 @@ This section will list resources authored by the Svelte team or promoted through
 6. [Svelte Templates](https://vercel.com/templates?framework=svelte) - Jumpstart app dev | _Dec 2022_
 7. [SvelteKit Commerce Starter](https://vercel.com/templates/svelte/sveltekit-commerce) - using TailwindCSS, Shopify
 8. [SvelteKit Turborepo Starter](https://vercel.com/templates/svelte/turborepo-sveltekit-starter) - monorepo with 2 apps, shared UI packages
+9. [Svelte REPL](https://svelte.dev/repl/hello-world?version=3.55.0) - in-browser interactive playground to try Svelte
+10. [Svelte Examples](https://svelte.dev/examples/hello-world) - code snippets you can explore in interactive playground
 
 
 ## Community Resources

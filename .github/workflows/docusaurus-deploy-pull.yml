@@ -1,4 +1,4 @@
-name: Test Deploy on PR
+name: Docusaurus Test Deploy On PR
 
 on:
   pull_request:

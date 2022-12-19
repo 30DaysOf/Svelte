@@ -52,6 +52,15 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+
+        // 4. Sitemap (requires plugin-sitemap) - at /sitemap.xml
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+
       }),
     ],
   ],
@@ -87,6 +96,7 @@ const config = {
         items: [
           { to: "/learn", label: "Learn", position: "left" },
           { to: "/build", label: "Build", position: "left" },
+          { to: "/sitemap.xml", label: "🏠 Sitemap", position: "right" },
           {
             href: "https://github.com/30DaysOf/svelte",
             position: "right",
@@ -103,7 +113,7 @@ const config = {
           {
             html: `
                 <a href="https://nitya.dev" target="_blank" rel="noreferrer noopener" aria-label="About Nitya Narasimhan, PhD">
-                  <img src="/img/logo.svg" alt="Logo from Undraw.co" width="114" height="51" />
+                  <img src="https://30daysof.github.io/svelte/img/logo.svg" alt="Logo from Undraw.co" width="114" height="51" />
                 </a>
               `,
           },

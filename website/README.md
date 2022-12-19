@@ -71,6 +71,7 @@ $ npm run serve
 $ cd website
 $ npm install --save @docusaurus/plugin-ideal-image
 $ npm install --save @docusaurus/theme-mermaid
+$ npm install --save @docusaurus/plugin-sitemap
 ```
 
 ## 5. Customize Content Types

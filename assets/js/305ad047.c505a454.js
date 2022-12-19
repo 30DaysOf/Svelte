@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[815],{5453:e=>{e.exports=JSON.parse('{"title":"SvelteKit","description":"Interactive","slug":"/category/sveltekit","permalink":"/svelte/category/sveltekit","navigation":{"previous":{"title":"Quickstart","permalink":"/svelte/svelte"},"next":{"title":"Quickstart","permalink":"/svelte/svelte-kit"}}}')}}]);

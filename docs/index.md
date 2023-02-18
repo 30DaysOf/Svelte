@@ -1,7 +1,3 @@
-# TIL: Today I Learned
+# Today I Learned
 
-| Day | Learnings |
-|:---|:---|
-| | |
-| | |
-| | |
+* [#001](./001/index.md) - Install the [VS Code Svelte Extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)

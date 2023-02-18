@@ -1,29 +1,23 @@
-# Svelte #In30Days
+# Svelte: Learn By Doing!
 
-Documenting my exploration of [Svelte](https://svelte.dev/) starting with the recently launched [SvelteKit 1.0](https://kit.svelte.dev/). 
+## Learning Objectives
+
+1. Understand core concepts & differentiation for Svelte
+2. Complete the [basic Svelte tutorial](https://svelte.dev/tutorial/basics) to see concepts in action
+3. Explore the [SveltteKit framework](https://kit.svelte.dev/docs/introduction) for rapid app prototyping
+4. Apply learnings to build an e2e app experience from scratch.
+
+## Content Objectives
+
+1. Capture daily progress in markdown notes under `website/docs`
+2. Capture exercises in code under `codelabs/`
+3. Once complete, organize into lessons with #30Days roadmaps.
 
 
-## Objectives
+## Website
 
-Learning Objectives are:
- - understand syntax and semantics of Svelte
- - explore tools & templates support in SvelteKit
- - build familiarity with tools like Vite, TurboRepo etc.
- - apply learnings to build an end-to-end application
- 
-Content Objectives are:
- - document daily progress as I go (short, actionable)
- - document relevant resources used (clarity, coverage)
- - compile posts into #30Days Roadmap (for learners)
+I initially planned to use [Docusaurus 2](https://docusaurus.io) which I am familiar with. But instead, I am going to use [Astro Paper](https://github.com/satnaing/astro-paper#readme) which is lightweight and accessibility-friendly. Astro supports [Svelte components](https://docs.astro.build/en/core-concepts/framework-components/) so we can explore Svelte integration with the hosted documents later.
 
----
 
-## Documentation
-
-I'm using [Docusaurus 2](https://docusaurus.io) to create a static site, and using GitHub Pages for hosting. This is primarily so I have a consistent format and look & feel across #30Days projects - else it would have been very meta to have the website built with Svelte itself.
-
- * Docs content is in the `website/docs` folder.
- * Docs content is authored in Markdown.
- * Website setup is described in [website/README.md](website/README.md).
 
 ---

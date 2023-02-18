@@ -9,15 +9,11 @@
 
 ## Content Objectives
 
-1. Capture daily progress in markdown notes under `website/docs`
+1. Capture daily progress in markdown notes under `docs`
 2. Capture exercises in code under `codelabs/`
 3. Once complete, organize into lessons with #30Days roadmaps.
 
 
 ## Website
 
-I initially planned to use [Docusaurus 2](https://docusaurus.io) which I am familiar with. But instead, I am going to use [Astro Paper](https://github.com/satnaing/astro-paper#readme) which is lightweight and accessibility-friendly. Astro supports [Svelte components](https://docs.astro.build/en/core-concepts/framework-components/) so we can explore Svelte integration with the hosted documents later.
-
-
-
----
+For now, notes are collected in the `docs/XXX/index.md` file where xxx is the lesson or exercise unit.

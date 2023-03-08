@@ -1,19 +1,28 @@
-# Svelte: Learn By Doing!
+# Learn Svelte: #in30Days
 
 ## Learning Objectives
 
-1. Understand core concepts & differentiation for Svelte
-2. Complete the [basic Svelte tutorial](https://svelte.dev/tutorial/basics) to see concepts in action
-3. Explore the [SveltteKit framework](https://kit.svelte.dev/docs/introduction) for rapid app prototyping
-4. Apply learnings to build an e2e app experience from scratch.
+1. Understand Svelte Fundamentals and Differentiation
+2. Understand SvelteKit Framework and Usage Patterns
+3. Build a Svelte App from Scratch using SvelteKit
+4. Define developer environment settings for Svelte/VSCode
+5. Explore GitHub Copilot usage for Svelte app development
 
-## Content Objectives
+I'll document learnings in markdown files that can later be organized or assembled into an #in30Days course.
 
-1. Capture daily progress in markdown notes under `docs`
-2. Capture exercises in code under `codelabs/`
-3. Once complete, organize into lessons with #30Days roadmaps.
+---
 
+## Repo Structure
 
-## Website
+1. `docs/` - contains learnings captured in markdown, organized as folders
+2. `src/` - contains codelabs and app projects
+3. `static/` - contains static assets for the website
+4. `README.md` - this file
 
-For now, notes are collected in the `docs/XXX/index.md` file where xxx is the lesson or exercise unit.
+---
+
+## Learning Journey
+
+Document my exploration journey in `ROADMAP.md` in chronological order, so I can map this into #in30Days content in a way that captures dependencies.
+
+---

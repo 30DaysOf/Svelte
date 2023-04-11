@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent Posts","items":[{"title":"Hello, Svelte-verse!","permalink":"/Svelte/blog/mdx-blog-post"}]}')}}]);

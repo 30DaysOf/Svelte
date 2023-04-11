@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[605],{5093:e=>{e.exports=JSON.parse('{"permalink":"/Svelte/blog","page":1,"postsPerPage":7,"totalPages":1,"totalCount":1,"blogDescription":"Blog posts documenting my Svelte Learning Journey","blogTitle":"Learning Svelte"}')}}]);

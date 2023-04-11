@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[177],{1205:e=>{e.exports=JSON.parse('{"permalink":"/Svelte/blog/tags/docusaurus","page":1,"postsPerPage":7,"totalPages":1,"totalCount":1,"blogDescription":"Blog posts documenting my Svelte Learning Journey","blogTitle":"Learning Svelte"}')}}]);

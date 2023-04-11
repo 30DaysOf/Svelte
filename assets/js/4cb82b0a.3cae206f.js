@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[142],{4539:e=>{e.exports=JSON.parse('{"permalink":"/Svelte/blog/tags/mdx","page":1,"postsPerPage":7,"totalPages":1,"totalCount":1,"blogDescription":"Blog posts documenting my Svelte Learning Journey","blogTitle":"Learning Svelte"}')}}]);
